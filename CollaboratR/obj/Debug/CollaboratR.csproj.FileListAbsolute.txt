@@ -1,0 +1,156 @@
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\CollaboratR.dll.config
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\CollaboratR.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\CollaboratR.pdb
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Antlr3.Runtime.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\BCrypt.Net.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Owin.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Owin.Security.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Web.Infrastructure.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Newtonsoft.Json.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Owin.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Helpers.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Mvc.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Optimization.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Razor.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.WebPages.Deployment.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.WebPages.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.WebPages.Razor.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\WebGrease.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\BCrypt.Net.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Owin.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Microsoft.Owin.Security.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\Newtonsoft.Json.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Helpers.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Mvc.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Optimization.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.Razor.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.WebPages.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.WebPages.Deployment.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\bin\System.Web.WebPages.Razor.xml
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\obj\Debug\CollaboratR.csprojResolveAssemblyReference.cache
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\obj\Debug\CollaboratR.dll
+C:\Stuff\Chatroom - gitHub\Collaboratr\CollaboratR\CollaboratR\obj\Debug\CollaboratR.pdb
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\CollaboratR.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\CollaboratR.pdb
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Antlr3.Runtime.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\BCrypt.Net.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Security.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Web.Infrastructure.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Newtonsoft.Json.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Owin.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Helpers.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Mvc.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Optimization.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Razor.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Deployment.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Razor.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\WebGrease.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\BCrypt.Net.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Security.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\Newtonsoft.Json.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Helpers.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Mvc.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Optimization.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.Razor.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Deployment.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Razor.xml
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\obj\Debug\CollaboratR.csprojResolveAssemblyReference.cache
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\obj\Debug\CollaboratR.dll
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\obj\Debug\CollaboratR.pdb
+C:\Stuff\Collaboratr devArlon\csunCollaboratr\CollaboratR\bin\CollaboratR.dll.config
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\CollaboratR.dll.config
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\CollaboratR.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\CollaboratR.pdb
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Antlr3.Runtime.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\BCrypt.Net.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Security.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Newtonsoft.Json.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Owin.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Helpers.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Mvc.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Optimization.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Razor.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\WebGrease.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\BCrypt.Net.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Microsoft.Owin.Security.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\Newtonsoft.Json.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Helpers.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Mvc.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Optimization.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.Razor.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\obj\Debug\CollaboratR.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\obj\Debug\CollaboratR.dll
+C:\Users\Ross\Desktop\Collaboratr\csunCollaboratr\CollaboratR\obj\Debug\CollaboratR.pdb
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\CollaboratR.dll.config
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\CollaboratR.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\CollaboratR.pdb
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Antlr3.Runtime.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\BCrypt.Net.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Owin.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Owin.Security.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Newtonsoft.Json.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Owin.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Helpers.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Mvc.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Optimization.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Razor.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.WebPages.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\WebGrease.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\BCrypt.Net.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Owin.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Microsoft.Owin.Security.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\Newtonsoft.Json.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Helpers.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Mvc.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Optimization.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.Razor.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.WebPages.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\obj\Debug\CollaboratR.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\obj\Debug\CollaboratR.dll
+C:\Users\Ross\Desktop\Collaboratr\Collaboratr\CollaboratR\obj\Debug\CollaboratR.pdb
